@@ -41,5 +41,6 @@ def aoh_update(aoh, row, key, new_value)
   # Return the updated AoH
 
   aoh[2][:name] = "new_value"
+  aoh
 
 end
