@@ -33,7 +33,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  names[2][0]
+  aoh[2]["Pat Monteseian"]
 end
 
 def aoh_update(aoh, row, key, new_value)
